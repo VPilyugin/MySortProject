@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MySortProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MySortProject_jar</output-path>
+    <root id="archive" name="MySortProject.jar">
+      <element id="module-output" name="MySortProject" />
+    </root>
+  </artifact>
+</component>
